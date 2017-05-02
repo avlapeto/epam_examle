@@ -1,0 +1,24 @@
+{
+  "name": "epam_example",
+  "version": "1.0.0",
+  "description": "epam example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avlapeto/epam_examle.git"
+  },
+  "keywords": [
+    "sample",
+    "of",
+    "code"
+  ],
+  "author": "avl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avlapeto/epam_examle/issues"
+  },
+  "homepage": "https://github.com/avlapeto/epam_examle#readme"
+}
